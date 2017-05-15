@@ -1,4 +1,4 @@
-# RockÉTS embedded system's temperature PCB <img src="/assets/" width="60" vertical-align="bottom">
+# RockÉTS embedded system's temperature PCB <img src="/assets/thermometer.png" width="60" vertical-align="bottom">
 
 #### How to contribute ?
 - [X] Create a branch by feature and/or bug fix
